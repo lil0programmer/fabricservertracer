@@ -1,8 +1,12 @@
 ⚡⚡¡Bienvenido al bug tracer del servidor!⚡⚡
 
-- El propósito principal de este repo es anotar todos los bugs y problemas que sucedan en el servidor.
+- El propósito principal de este repo es anotar todos los bugs y problemas que sucedan en el servidor. Puedes verlos pinchando donde pone Issues.
 
 _Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en una instancia gratuita de Oracle cloud, con 5 GB de RAM, y emplea un procesador ampere ARM._
+
+vamos a aprovechar este readme para meter información básica del servidor 
+
+
 
 > ⚙️ Dentro de la configuración básica y propiedades del server:
 - el max de jugadores en las propiedades son 10, pero se estima que como máximo aguanta 5.
