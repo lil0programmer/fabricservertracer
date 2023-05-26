@@ -2,9 +2,9 @@
 
 - El propósito principal de este repo es anotar todos los bugs y problemas que sucedan en el servidor. Puedes verlos pinchando donde pone Issues.
 
-_Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en una instancia gratuita de Oracle cloud, con 5 GB de RAM, y emplea un procesador ampere ARM._
+_Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en una instancia gratuita de Oracle cloud, con 5 GB de RAM, que aloca a Minecraft el 85% (4,2 GB) y emplea un procesador ampere ARM._
 
-vamos a aprovechar este readme para meter información básica del servidor 
+🔥 Vamos a aprovechar este readme para meter información básica del servidor 
 
 
 
