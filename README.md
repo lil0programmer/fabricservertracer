@@ -16,8 +16,7 @@ _Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que cor
 - esta en modo offline 
 - las flags de java que usamos vienen de https://flags.sh 
 
-> ⬇️ **mods que estan previstos a actualizarse**
-- Spectrum
+
 
 > ⚠️ términos de uso 
 - ⛔ No escribir palabras ni enviar imagenes obscenas dentro del servidor. esta en contra del TOS de Oracle. Puede causarnos problemas.
