@@ -13,7 +13,6 @@ _Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que cor
 - la distancia de simulación son 3 chunks
 - la distancia de renderizado son 5 chunks 
 - entity broadcast percentage esta al 75%
-- esta en modo offline 
 - las flags de java que usamos vienen de https://flags.sh 
 
 
