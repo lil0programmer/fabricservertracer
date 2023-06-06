@@ -9,9 +9,11 @@ _Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que cor
 
 
 > ⚙️ Dentro de la configuración básica y propiedades del server:
-- el max de jugadores en las propiedades son 10, pero se estima que como máximo aguantarían hasta 5 o 6 jugadores hasta que haya lag.
-- la distancia de simulación son 3 chunks
-- la distancia de renderizado son 5 chunks 
+- el max de jugadores en las propiedades son 10, pero se estima que como máximo aguantarían hasta 5 o 6 jugadores.
+- la distancia de simulación son 3 chunks (esto es INAMOVIBLE)
+
+
+- la distancia de renderizado son 5 chunks (esto es INAMOVIBLE)
 - entity broadcast percentage esta al 75%
 - las flags de java que usamos vienen de https://flags.sh 
 
