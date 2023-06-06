@@ -14,13 +14,13 @@ _Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que cor
 
 
 - la distancia de renderizado son 5 chunks (esto es INAMOVIBLE)
-- entity broadcast percentage esta al 75%
+- entity broadcast percentage esta al 70%
 - las flags de java que usamos vienen de https://flags.sh 
 
 
 
 > ⚠️ términos de uso 
-- ⛔ No escribir palabras ni enviar imagenes obscenas dentro del servidor. esta en contra del TOS de Oracle. Puede causarnos problemas.
+- ⛔ No escribir palabras malsonantes ni enviar imagenes obscenas dentro del servidor. esta en contra del TOS de Oracle. Puede causarnos problemas.
 - 🌍 Los chunks están pregenerados y limitados. esto es para evitar lag, pero los mods se encargan de que esto se respete.
 
 - 🗂️ Respecto a copias de seguridad, solo descargare regiones donde me digáis  las coordenadas de estructuras donde habeis tenido actividad. Eso significa que cualquier estructura que no me digáis sus coordenadas corre el riesgo de ser eliminada si sucede cualquier incidente, y devs como Antonio no se responsabilizarán de su perdida.
