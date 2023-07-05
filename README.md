@@ -2,7 +2,7 @@
 
 - El propósito principal de este repo es anotar todos los bugs y problemas que sucedan en el servidor. Puedes verlos pinchando donde pone Issues.
 
-_Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en una instancia gratuita de Oracle cloud, con 5 GB de RAM, que aloca a Minecraft el 85% (4,2 GB) y emplea un procesador ampere ARM._
+_Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en un plan budget de enviromc, con 6 GB de RAM, y un procesador intel i9 de 9a generación.
 
 🔥 Vamos a aprovechar este readme para meter información básica del servidor 
 
@@ -13,14 +13,14 @@ _Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que cor
 - la distancia de simulación son 3 chunks (esto es INAMOVIBLE)
 
 
-- la distancia de renderizado son 5 chunks (esto es INAMOVIBLE)
+- la distancia de renderizado son 7 chunks (esto es INAMOVIBLE)
 - entity broadcast percentage esta al 70%
 - las flags de java que usamos vienen de https://flags.sh 
 
 
 
 > ⚠️ términos de uso 
-- ⛔ No escribir palabras malsonantes ni enviar imagenes obscenas dentro del servidor. esta en contra del TOS de Oracle. Puede causarnos problemas.
+- ⛔ No escribir palabras malsonantes ni enviar imagenes obscenas dentro del servidor.
 - 🌍 Los chunks están pregenerados y limitados. esto es para evitar lag, pero los mods se encargan de que esto se respete.
 
 - 🗂️ Respecto a copias de seguridad, solo descargare regiones donde me digáis  las coordenadas de estructuras donde habeis tenido actividad. Eso significa que cualquier estructura que no me digáis sus coordenadas corre el riesgo de ser eliminada si sucede cualquier incidente, y devs como Antonio no se responsabilizarán de su perdida.
