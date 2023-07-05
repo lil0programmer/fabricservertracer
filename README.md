@@ -2,7 +2,7 @@
 
 - El propósito principal de este repo es anotar todos los bugs y problemas que sucedan en el servidor. Puedes verlos pinchando donde pone Issues.
 
-_Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en un plan budget de enviromc, con 6 GB de RAM, y un procesador intel i9 de 9a generación.
+Este bug tracer esta hecho para un servidor de Minecraft fabric 1.19.2, que corre en un plan budget de enviromc, con 6 GB de RAM, y un procesador intel i9 de 9a generación.
 
 🔥 Vamos a aprovechar este readme para meter información básica del servidor 
 
